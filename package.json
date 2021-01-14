@@ -1,0 +1,18 @@
+{
+  "name": "weatherApp",
+  "version": "1.0.0",
+  "description": "weather for a city in the world. specift the city name as argument to fetch data. EG :weathercli temperature Dallas,TX",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "weathercli": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "Manish Aryan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
