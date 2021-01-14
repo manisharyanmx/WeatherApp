@@ -8,7 +8,7 @@ Requirement :
 
 2) npm i -g .
 
-3) execute the command mentioned above weathercli temperature Dallas,TX
+3) execute the command mentioned above : weathercli temperature Dallas,TX
 
 4) npm install axios --save (if axios package not installed already as a dependency in package.json)
 
